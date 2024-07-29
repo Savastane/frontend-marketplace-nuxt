@@ -9,7 +9,7 @@
             <div class="fl-wrap">
                 <div class="row">
                     <HomePageFiltroComponent /> 
-                    <!-- <ContentBeneficiosComponent />  -->
+                    <HomePageBeneficiosComponent />  
                 </div>
             </div>
         </div>

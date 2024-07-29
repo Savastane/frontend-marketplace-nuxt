@@ -32,8 +32,8 @@
                 </div>                
             </div>  
         </div>
-        <div
-          class="listing-item-container init-grid-items fl-wrap nocolumn-lic"  v-for="beneficio in beneficios" :key="beneficio.id" >   
+        <div class="listing-item-container init-grid-items fl-wrap nocolumn-lic"  v-for="beneficio in beneficios.items" :key="beneficio.id" >   
+            
             <HomePageBeneficioComponent :beneficio="beneficio" />
             <!-- <ContentPaginationComponent /> -->
         </div>
@@ -41,11 +41,12 @@
 </template>
 
 <script setup>
-    import HomePageBeneficioComponent from '~/components/HomePageBeneficioComponent.vue';
-    import { useFetch } from '#nuxtjs/composition-api';
+     console.log("sava");
+    //import HomePageBeneficioComponent from '~/components/HomePageBeneficioComponent.vue';
+    // import { useFetch } from '#nuxtjs/composition-api';
     //const { data: beneficios } = await useFetch('https://sua-api.com/beneficios');
-    const { data: beneficios  } = await useFetch('/public/data/OffersList.json');
-
-    console.log(beneficios);
+    //const { data: beneficios  } = await useFetch('~/public/data/OffersList.json');
+    import beneficios from '/public/data/OffersList.json'
     
+
 </script>
