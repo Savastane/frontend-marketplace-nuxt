@@ -1,0 +1,4 @@
+<template>
+    <HeaderBodyComponent/>   
+    <HomePageBodyComponent />
+</template>
