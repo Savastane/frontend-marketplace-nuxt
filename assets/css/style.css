@@ -1411,7 +1411,7 @@ section.gray-section .section-separator {
 	top:0;
 	width:60px;
 	height:60px;
-	background:url(../images/arrow.png) no-repeat center;
+	background:url(#) no-repeat center;
 }
 .intro-item h1{
     font-size: 46px;
@@ -8272,7 +8272,7 @@ section.absolute-wrap_section .section-separator {
 .time-line-icon {
     position: relative;
     margin-bottom: 20px;
-    background: url(../images/clouds.png) no-repeat center;
+    background: url(#) no-repeat center;
 }
 .features-box.gray-bg , .absolute-wrap .features-box:hover{
     background: #F5F6FA;

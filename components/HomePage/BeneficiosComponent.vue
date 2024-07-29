@@ -44,5 +44,8 @@
     import HomePageBeneficioComponent from '~/components/HomePageBeneficioComponent.vue';
     import { useFetch } from '#nuxtjs/composition-api';
     //const { data: beneficios } = await useFetch('https://sua-api.com/beneficios');
-    const { data: beneficios  } = await useFetch('/assets/data.json');
+    const { data: beneficios  } = await useFetch('/public/data/OffersList.json');
+
+    console.log(beneficios);
+    
 </script>

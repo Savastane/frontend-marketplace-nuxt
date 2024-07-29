@@ -26,7 +26,7 @@
                                     <option>Tatuagem</option>
                                     <option>Pets</option>
                                     <option>Terapias</option>
-                                    <option>Estética</option>
+                                    <option>Estï¿½tica</option>
                                     <option>Fisioterapua</option>
                                 </select>
                                 <div class="nice-select chosen-select no-search-select" tabindex="0"><span class="current">Todas as Categorias</span><div class="nice-select-search-box">
@@ -64,7 +64,7 @@
                             <!-- listsearch-input-item-->
                             <div class="listsearch-input-item">
                                 <div class="price-rage-wrap fl-wrap">
-                                    <div class="price-rage-wrap-title"><i class="fal fa-hand-holding-usd"></i> Preço :</div>
+                                    <div class="price-rage-wrap-title"><i class="fal fa-hand-holding-usd"></i> Preï¿½o :</div>
                                     <div class="price-rage-item fl-wrap">
                                         <span class="irs js-irs-0"><span class="irs"><span class="irs-line" tabindex="0"><span class="irs-line-left"></span><span class="irs-line-mid"></span><span class="irs-line-right"></span></span><span class="irs-min" style="visibility: visible;">$</span><span class="irs-max" style="visibility: visible;">$$$$</span><span class="irs-from" style="visibility: hidden;">0</span><span class="irs-to" style="visibility: hidden;">0</span><span class="irs-single" style="left: 29.2683%;">$$</span></span><span class="irs-grid"></span><span class="irs-bar" style="left: 3.65854%; width: 30.8943%;"></span><span class="irs-bar-edge"></span><span class="irs-shadow shadow-single" style="display: none;"></span><span class="irs-slider single" style="left: 30.8943%;"></span></span><input type="text" class="price-range irs-hidden-input" data-min="0" data-max="4" name="price-range1" data-step="1" value="$$" tabindex="-1" readonly="">
                                     </div>
@@ -137,7 +137,7 @@
                                     </div>
                                 </a>
                                 <a class="category-carousel-item fl-wrap full-height" href="https://townhub.kwst.net/listing5.html#">
-                                    <img src="./index1_files/33.jpg" alt=""> 
+                                    <img src="#" data-i="./index1_files/33.jpg" alt=""> 
                                     <div class="category-carousel-item-icon purp-bg"><i class="fal fa-cocktail"></i></div>
                                     <div class="category-carousel-item-container">
                                         <div class="category-carousel-item-title">Events / Nightlife</div>
@@ -145,7 +145,7 @@
                                     </div>
                                 </a>
                                 <a class="category-carousel-item fl-wrap full-height" href="https://townhub.kwst.net/listing5.html#">
-                                    <img src="./index1_files/10.jpg" alt=""> 
+                                    <img src="#" data-i="./index1_files/10.jpg" alt=""> 
                                     <div class="category-carousel-item-icon blue-bg"><i class="fal fa-dumbbell"></i></div>
                                     <div class="category-carousel-item-container">
                                         <div class="category-carousel-item-title">Fitness / Gym</div>
@@ -153,7 +153,7 @@
                                     </div>
                                 </a>
                                 <a class="category-carousel-item fl-wrap full-height" href="https://townhub.kwst.net/listing5.html#">
-                                    <img src="./index1_files/11.jpg" alt=""> 
+                                    <img src="#" data-i="./index1_files/11.jpg" alt=""> 
                                     <div class="category-carousel-item-icon green-bg"><i class="fal fa-cart-arrow-down"></i></div>
                                     <div class="category-carousel-item-container">
                                         <div class="category-carousel-item-title">Shopping</div>

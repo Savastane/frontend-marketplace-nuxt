@@ -10899,8 +10899,8 @@ source,video {
 
 @font-face {
     font-family: 'lg';
-    src: url(../fonts/lg.eot?n1z373);
-    src: url(../fonts/lg.eot?#iefixn1z373) format("embedded-opentype"),url(../fonts/lg.woff?n1z373) format("woff"),url(../fonts/lg.ttf?n1z373) format("truetype"),url(../fonts/lg.svg?n1z373#lg) format("svg");
+    src: url(../fonts/lg.eot);
+    src: url(../fonts/lg.eot) format("embedded-opentype"),url(../fonts/lg.woff) format("woff"),url(../fonts/lg.ttf) format("truetype"),url(../fonts/lg.svg) format("svg");
     font-weight: 400;
     font-style: normal
 }
@@ -11240,15 +11240,15 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 }
 
 .lg-outer .lg-has-vimeo .lg-video-play {
-    background: url(../img/vimeo-play.png) no-repeat 0 0
+    background: url(#) no-repeat 0 0
 }
 
 .lg-outer .lg-has-vimeo:hover .lg-video-play {
-    background: url(../img/vimeo-play.png) no-repeat 0 -58px
+    background: url(#) no-repeat 0 -58px
 }
 
 .lg-outer .lg-has-html5 .lg-video-play {
-    background: url(../img/video-play.png) no-repeat 0 0;
+    background: url(#) no-repeat 0 0;
     height: 64px;
     margin-left: -32px;
     margin-top: -32px;
@@ -11261,11 +11261,11 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 }
 
 .lg-outer .lg-has-youtube .lg-video-play {
-    background: url(../img/youtube-play.png) no-repeat 0 0
+    background: url(#) no-repeat 0 0
 }
 
 .lg-outer .lg-has-youtube:hover .lg-video-play {
-    background: url(../img/youtube-play.png) no-repeat 0 -60px
+    background: url(#) no-repeat 0 -60px
 }
 
 .lg-outer .lg-video-object {

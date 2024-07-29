@@ -1,0 +1,82 @@
+{
+    "items": [ 
+                    {
+                        
+                        "id": "b9e1cdbe-e56b-4e2f-9bb5-751f0e3a2652",
+                        "save": "Salve",
+                        "especialista": "Studio Dragon Tatto",
+                        "bairro": "São Rafael",
+                        "promocional_text" : "studio tadicional de tatuagem, arte qualidade e  segurança",
+                        "promocional_img" : "./public/images/offers/oferta1/promocional.jpg",
+                        "especialista_img" : "./public/images/offers/oferta1/promocional.jpg",
+                        "price" : "R$ 15,00",
+                        "reviewsscore" : "4.5",
+                        "reviewscount" : "5",
+                        "state" : "Aberto",
+                        "author" : "Savastane",
+                        "phone" : "71 98818-3587",
+                        "email" : "savastane@gmail.com",
+                        "url_link" : "/item/studio-yellow-tatto"
+                        
+                    },
+                    {
+                        
+                        "id": "030ba6b0-44c0-4075-8d20-f29b2b955bb8",
+                        "save": "Salve",
+                        "especialista": "Studio CajaCity Tatto",
+                        "bairro": "Cajazeiras V",
+                        "promocional_text" : "studio tadicional de tatuagem, arte qualidade e  segurança",
+                        "promocional_img" : "./src/assets/images/data/promocional_1.png",
+                        "especialista_img" : "./src/assets/images/data/especialista.jpg",
+                        "price" : "R$ 15,00",
+                        "reviewsscore" : "4.5",
+                        "reviewscount" : "5",
+                        "state" : "Aberto",
+                        "author" : "Savastane",
+                        "phone" : "71 98818-3587",
+                        "email" : "savastane@gmail.com",
+                        "url_link" : "/item/studio-yellow-tatto"
+                        
+                    },
+                    {
+                        
+                        "id": "007c5a71-c8e8-4472-81d7-34eee038b666",
+                        "save": "Salve",
+                        "especialista": "Studio Yellow Tatto",
+                        "bairro": "Piraja",
+                        "promocional_text" : "studio tadicional de tatuagem, arte qualidade e  segurança",
+                        "promocional_img" : "./src/assets/images/data/promocional_2.png",
+                        "especialista_img" : "./src/assets/images/data/especialista.jpg",
+                        "price" : "R$ 15,00",
+                        "reviewsscore" : "4.5",
+                        "reviewscount" : "5",
+                        "state" : "Aberto",
+                        "author" : "Savastane",
+                        "phone" : "71 98818-3587",
+                        "email" : "savastane@gmail.com",
+                        "url_link" : "/item/studio-yellow-tatto"
+                        
+                    },
+                    {
+                        
+                        "id": "80cfb104-64be-4465-afb1-f19eb83bb377",
+                        "save": "Salve",
+                        "especialista": "Studio OK Tatto",
+                        "bairro": "Brotas",
+                        "promocional_text" : "studio tadicional de tatuagem, arte qualidade e  segurança",
+                        "promocional_img" : "./src/assets/images/data/promocional_3.png",
+                        "especialista_img" : "./src/assets/images/data/especialista.jpg",
+                        "price" : "R$ 15,00",
+                        "reviewsscore" : "4.5",
+                        "reviewscount" : "5",
+                        "state" : "Aberto",
+                        "author" : "Savastane",
+                        "phone" : "71 98818-3587",
+                        "email" : "savastane@gmail.com",
+                        "url_link" : "/item/studio-yellow-tatto"
+                        
+                    }
+
+              ] 
+}
+
