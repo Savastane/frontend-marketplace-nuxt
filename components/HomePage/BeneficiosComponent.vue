@@ -41,7 +41,7 @@
 </template>
 
 <script setup>
-     console.log("sava");
+     
     //import HomePageBeneficioComponent from '~/components/HomePageBeneficioComponent.vue';
     // import { useFetch } from '#nuxtjs/composition-api';
     //const { data: beneficios } = await useFetch('https://sua-api.com/beneficios');
