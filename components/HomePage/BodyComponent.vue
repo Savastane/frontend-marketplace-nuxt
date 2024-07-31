@@ -6,4 +6,5 @@
        <div class="limit-box fl-wrap"></div>
    </div>        
  </div>
+ <FooterComponent />
 </template>
