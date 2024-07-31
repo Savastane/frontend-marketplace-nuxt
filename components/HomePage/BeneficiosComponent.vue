@@ -32,10 +32,13 @@
                 </div>                
             </div>  
         </div>
-        <div class="listing-item-container init-grid-items fl-wrap nocolumn-lic"  v-for="beneficio in beneficios.items" :key="beneficio.id" >   
-            
-            <HomePageBeneficioComponent :beneficio="beneficio" />
-            <!-- <ContentPaginationComponent /> -->
+        <div class="listing-item-container init-grid-items fl-wrap nocolumn-lic" >   
+
+            <span v-for="beneficio in beneficios.items" :key="beneficio.id" >   
+              <HomePageBeneficioComponent :beneficio="beneficio" />            
+            </span>    
+
+            <HomePagePaginationComponent />
         </div>
     </div>
 </template>
