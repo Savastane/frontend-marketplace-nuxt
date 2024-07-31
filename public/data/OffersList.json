@@ -35,18 +35,18 @@
                         "author" : "Savastane",
                         "phone" : "71 98818-3587",
                         "email" : "savastane@gmail.com",
-                        "url_link" : "/item/studio-yellow-tatto"
+                        "url_link" : "/oferta/studio-cajacity-tatto"
                         
                     },
                     {
                         
                         "id": "007c5a71-c8e8-4472-81d7-34eee038b666",
                         "save": "Salve",
-                        "especialista": "Studio Yellow Tatto",
+                        "especialista": "Studio red Tatto",
                         "bairro": "Piraja",
                         "promocional_text" : "studio tadicional de tatuagem, arte qualidade e  segurança",
-                        "promocional_img" : "/image/offers/030ba6b0-44c0-4075-8d20-f29b2b955bb8/promocional.png",
-                        "especialista_img" : "/image/offers/030ba6b0-44c0-4075-8d20-f29b2b955bb8/especialista.jpg",
+                        "promocional_img" : "/image/offers/007c5a71-c8e8-4472-81d7-34eee038b666/promocional.png",
+                        "especialista_img" : "/image/offers/007c5a71-c8e8-4472-81d7-34eee038b666/especialista.jpg",
                         "price" : "R$ 15,00",
                         "reviewsscore" : "4.5",
                         "reviewscount" : "5",
@@ -54,7 +54,7 @@
                         "author" : "Savastane",
                         "phone" : "71 98818-3587",
                         "email" : "savastane@gmail.com",
-                        "url_link" : "/item/studio-yellow-tatto"
+                        "url_link" : "/oferta/studio-red-tatto"
                         
                     },
                     {
@@ -64,8 +64,8 @@
                         "especialista": "Studio OK Tatto",
                         "bairro": "Brotas",
                         "promocional_text" : "studio tadicional de tatuagem, arte qualidade e  segurança",
-                        "promocional_img" : "/image/offers/030ba6b0-44c0-4075-8d20-f29b2b955bb8/promocional.png",
-                        "especialista_img" : "/image/offers/030ba6b0-44c0-4075-8d20-f29b2b955bb8/especialista.jpg",
+                        "promocional_img" : "/image/offers/80cfb104-64be-4465-afb1-f19eb83bb377/promocional.png",
+                        "especialista_img" : "/image/offers/80cfb104-64be-4465-afb1-f19eb83bb377/especialista.jpg",
                         "price" : "R$ 15,00",
                         "reviewsscore" : "4.5",
                         "reviewscount" : "5",
@@ -73,7 +73,7 @@
                         "author" : "Savastane",
                         "phone" : "71 98818-3587",
                         "email" : "savastane@gmail.com",
-                        "url_link" : "/item/studio-yellow-tatto"
+                        "url_link" : "/oferta/studio-ok-tatto"
                         
                     }
 
