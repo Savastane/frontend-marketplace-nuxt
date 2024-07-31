@@ -1,18 +1,19 @@
 <template>
     
     <HeaderBodyComponent/>   
+    
 
     <!-- <h1>{{$route.params.slug}}</h1> -->
 
-    <div v-if="pending">
+    <span v-if="pending">
             Loading...
-    </div>
-    <div v-else-if="data === null">
+    </span>
+    <span v-else-if="data === null">
             carregando
-     </div>
-     <div v-else>
+     </span>
+     <span v-else>
          <OfferContentComponent :oferta="data" />        
-     </div>
+     </span>
 </template>
 
 <script>

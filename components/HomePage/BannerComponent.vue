@@ -1,5 +1,4 @@
 <template>
-
     <section class="parallax-section single-par" data-scrollax-parent="true">
             <div class="bg par-elem " data-bg='' data-scrollax="properties: { translateY: &#39;30%&#39; }" style='background-image: url("/image/home/tattoBanner.jpg"); transform: translateZ(0px) translateY(-3.45324%);'></div>
             <div class="overlay op7"></div>
