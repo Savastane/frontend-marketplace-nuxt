@@ -2,14 +2,10 @@
 
 <template>
     <div class="content">
-        {{oferta.banner}}
-        
         <section class="listing-hero-section hidden-section" data-scrollax-parent="true" id="sec1">
             <OfferBannerComponent :ofertaBanner ="oferta"/>
-            <OfferContainerComponent :ofertaPromocional ="oferta"/> 
-            <OfferMenuContent />
-            <OfferBreadsCrumsComponent/>
-            
+            <OfferMenuComponent />           
+            <OfferContainerComponent :ofertaPromocional ="oferta"/>                          
         </section>
     </div>
 </template>
