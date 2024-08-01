@@ -43,7 +43,7 @@
     </div>
 </template>
 
-<script setup>
+<script setup ="ts">
      
     //import HomePageBeneficioComponent from '~/components/HomePageBeneficioComponent.vue';
     // import { useFetch } from '#nuxtjs/composition-api';
@@ -51,5 +51,8 @@
     //const { data: beneficios  } = await useFetch('~/public/data/OffersList.json');
     import beneficios from '/public/data/OffersList.json'
     
+
+    // const {ApagaOferta} = useOfferStore;
+    // const {OfferList} = storeToRefs(OfferStore)
 
 </script>

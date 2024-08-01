@@ -16,7 +16,7 @@
                                 <div class="row">
                                     <div class="col-md-9">
                                         <h1>Studio Yellow Tatoo<span class="verified-badge"><i class="fal fa-check"></i></span></h1>
-                                        <div class="geodir-category-location fl-wrap"><a href="#"><i class="fas fa-map-marker-alt"></i>Cajazeiras 4, Salvador</a> <a href="#"> <i class="fal fa-phone"></i>+71 98818-3587</a> <a href="#"><i class="fal fa-envelope"></i> studioyellow@gmail.com</a></div>
+                                        <div class="geodir-category-location fl-wrap"><a href="#"><i class="fas fa-map-marker-alt"></i>Cajazeiras 4, Salvador</a> <a href="#"> <i class="fal fa-phone"></i>+71 98818-3587</a> <a href="#"><i class="fal fa-envelope "></i> studioyellow@gmail.com</a></div>
                                     </div>
                                     <div class="col-md-3">
                                         <a class="fl-wrap list-single-header-column custom-scroll-link " href="#sec5">
@@ -33,7 +33,7 @@
 
   <div class="list-single-header_bottom fl-wrap">
       <a class="listing-item-category-wrap" href="#">
-          <div class="listing-item-category  red-bg"><i class="fal fa-cheeseburger"></i></div>
+          <div class="listing-item-category  red-bg"><i class="fal fa-pencil"></i></div>
           <span>Tatuagem</span>
       </a>
       <div class="list-single-author"> <a href="https://townhub.kwst.net/author-single.html"><span class="author_avatar"> <img alt="" :src="ofertaBanner.foto">  </span>Savastane</a></div>

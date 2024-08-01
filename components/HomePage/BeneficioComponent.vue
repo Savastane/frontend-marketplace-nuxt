@@ -45,7 +45,7 @@
                 </div>
                 <div class="geodir-category-footer fl-wrap">
                     <a class="listing-item-category-wrap">
-                        <div class="listing-item-category red-bg"><i class="fal fa-cheeseburger"></i></div>
+                        <div class="listing-item-category red-bg"><i class="fal fa-tag"></i></div>
                         <span>Studio de Tatuagem</span>
                     </a>
                     <div class="geodir-opt-list">

@@ -12,6 +12,7 @@
             </ul>
         </nav>
         <div class="scroll-nav-wrapper-opt">
+            <a href="#" class="scroll-nav-wrapper-opt-btn"> <i class="fas fa-dollar-sign"></i> Comprar </a>
             <a href="#" class="scroll-nav-wrapper-opt-btn"> <i class="fas fa-heart"></i> Favorito </a>
             <a href="#" class="scroll-nav-wrapper-opt-btn showshare"> <i class="fas fa-share"></i> Compartilhar </a>
             <div class="share-holder hid-share">

@@ -16,7 +16,7 @@
      </span>
 </template>
 
-<script>
+<script >
 
 
 export default {
