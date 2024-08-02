@@ -9,6 +9,13 @@ export default defineNuxtConfig({
     '@/assets/css/color.css',
     
   ],
+  components: [
+    {
+      path: '~/components',
+      pathPrefix: true,
+      extensions: ['.vue'],
+    },
+  ],
   app: {
     head: {
       charset: 'utf-8',
@@ -21,6 +28,9 @@ export default defineNuxtConfig({
   ],
   pinia: {
     storesDirs: ['./stores/**', './custom-folder/stores/**'],
+  },
+  experimental: {
+    componentIslands: true
   },
   
 })
