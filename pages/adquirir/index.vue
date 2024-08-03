@@ -7,5 +7,6 @@
         
          <HeaderBodyComponent/> 
          <BuyComponent />
+         <FooterComponent />
    </div>
 </template>

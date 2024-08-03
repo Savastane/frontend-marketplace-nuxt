@@ -6,25 +6,25 @@
         <div class="row">
             <div class="col-sm-6">
                 <label class="vis-label">Nome<i class="far fa-user"></i></label>
-                <input type="text" placeholder="Your Name" value=""/>                                                  
+                <input type="text" placeholder="Nome" value=""/>                                                  
             </div>
             <div class="col-sm-6">
                 <label class="vis-label">Sobre Nome <i class="far fa-user"></i></label>
-                <input type="text" placeholder="Your Last Name" value=""/> 
+                <input type="text" placeholder="Sobre Nome" value=""/> 
             </div>
             <div class="col-sm-6">
                 <label class="vis-label">Email<i class="far fa-envelope"></i>  </label>
-                <input type="text" placeholder="yourmail@domain.com" value=""/>                                                  
+                <input type="text" placeholder="seuemail@dominio.com.br" value=""/>                                                  
             </div>
             <div class="col-sm-6">
                 <label class="vis-label">Celular<i class="far fa-phone"></i>  </label>
-                <input type="text" placeholder="87945612233" value=""/>
+                <input type="text" placeholder="(99)9999-99999" value=""/>
             </div>
         </div>
-        <div class="log-massage">Existing Customer? <a href="#" class="modal-open">Click here to login</a></div>
-        <div class="log-separator fl-wrap"><span>or</span></div>
+        <div class="log-massage">Já é cadastrado? <a href="#" class="modal-open">Clique aqui para logar</a></div>
+        <div class="log-separator fl-wrap"><span>Ou</span></div>
         <div class="soc-log fl-wrap">
-            <p>login e inscrição usando sua rede social.</p>
+            <p>Login e inscrição usando sua rede social.</p>
             <a href="#" class="facebook-log"> conectar via facebook</a>
         </div>
         <div class="filter-tags">

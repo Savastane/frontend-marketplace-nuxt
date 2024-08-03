@@ -13,17 +13,20 @@ let teste ="Compra";
             <section class="gray-bg no-top-padding-sec" id="sec1">
                         <div class="container">
                             <div class="breadcrumbs inline-breadcrumbs fl-wrap block-breadcrumbs">
-                                <a href="#">Home</a><a href="#">Pages</a> <span>Booking Form</span> 
+                                <a href="#">Home</a><a href="#">Pages</a> <span>Adquirir Serviço </span> 
                             </div>
                             <div class="list-main-wrap-title single-main-wrap-title fl-wrap">
-                                <h2>{{teste}} form for : <span>Iconic Cafe</span></h2>
+                                <h2>{{teste}} Adquirir o serviço : <span>Studio Tatto Yellow</span></h2>
+                            </div>
+
+                            <div class="fl-wrap ">    
+                                <div class="row">
+                                    <BuyWizardComponent />
+                                </div>
                             </div>
                         </div>
-                        <div class="fl-wrap ">    
-                            <div class="row">
-                                <BuyWizardComponent />
-                            </div>
-                        </div>
+
+              
             </section>
 
 
