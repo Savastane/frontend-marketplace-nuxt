@@ -37,8 +37,9 @@
     <!--box-widget-item -->
     <div class="box-widget-item fl-wrap">
         <div class="banner-wdget fl-wrap">
-            <div class="overlay"></div>
-            <div class="bg"  data-bg="/image/12.jpg"></div>
+            <div class="overlay"></div>            
+            
+            <div class="bg" data-bg="/image/12.jpg" style="background-image: url(/image/12.jpg);"></div>
             <div class="banner-wdget-content fl-wrap">
                 <h4>Precisando de Suporte para enteder o processo de aquisição dos Serviços. </h4>
                 <a href="help.html" class="color-bg" >Central de Ajuda</a>
