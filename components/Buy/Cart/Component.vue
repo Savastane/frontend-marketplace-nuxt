@@ -8,7 +8,7 @@
         <div class="cart-details fl-wrap block_box">
             <!--cart-details_header--> 
             <div class="cart-details_header">
-                <a href="#"  class="widget-posts-img"><img src="#" class="respimg" alt=""></a>
+                <a href="#"  class="widget-posts-img"><img src="/image/48.jpg" class="respimg" alt=""></a>
                 <div class="widget-posts-descr">
                     <h4><a href="#">Studio Tatto Yellow</a></h4>
                     <div class="geodir-category-location fl-wrap"><a href="#">Cajazeiras 4</a></div>
@@ -38,7 +38,7 @@
     <div class="box-widget-item fl-wrap">
         <div class="banner-wdget fl-wrap">
             <div class="overlay"></div>
-            <div class="bg"  data-bg="images/bg/12.jpg"></div>
+            <div class="bg"  data-bg="/image/12.jpg"></div>
             <div class="banner-wdget-content fl-wrap">
                 <h4>Precisando de Suporte para enteder o processo de aquisição dos Serviços. </h4>
                 <a href="help.html" class="color-bg" >Central de Ajuda</a>
