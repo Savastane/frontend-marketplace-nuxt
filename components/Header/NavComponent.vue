@@ -15,7 +15,7 @@
                        <a href="#">Estética <i class="fa fa-caret-down"></i></a>
                        <!--second level -->   
                        <ul>
-                           <li><a href="#">Podologia</a></li>
+                           <li><a href="/logado">Perfil logado</a></li>
                            <li><a href="#">Unhas</a></li>
                            <li><a href="#">Botox</a></li>
                            <li><a href="#">Harmonização</a></li>
@@ -48,7 +48,7 @@
                        <!--second level end-->
                    </li>
                    <li>
-                       <a href="#">Pets</a>
+                       <a href="/logado">Perfil Logado</a>
                    </li>
                    <li>
                        <a href="#">Terapias <i class="fa fa-caret-down"></i></a>
