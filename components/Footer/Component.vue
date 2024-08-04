@@ -24,4 +24,7 @@
     </div>
     <!--sub-footer end -->
 </footer>
+
+<LoginComponent />
+
 </template>
